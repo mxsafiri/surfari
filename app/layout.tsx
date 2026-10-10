@@ -3,10 +3,10 @@ import '../styles/tokens.css';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: { default: 'UBONGO', template: '%s | UBONGO' },
-  description: 'Speak with your computer and watch it come to life.',
+  title: { default: 'Surfari', template: '%s | Surfari' },
+  description: 'Own the city. Ride every zone of Dar es Salaam.',
   manifest: '/manifest.json',
-  appleWebApp: { capable: true, statusBarStyle: 'black-translucent', title: 'UBONGO' },
+  appleWebApp: { capable: true, statusBarStyle: 'black-translucent', title: 'Surfari' },
 };
 
 export const viewport: Viewport = {
